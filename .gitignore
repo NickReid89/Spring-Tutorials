@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/SpringInnerBeans/nbproject/private/
+/SpringInnerBeans/build/
+/SpringCollections/nbproject/private/
+/SpringCollections/build/
+/SpringJavaConfig/nbproject/private/
+/SpringJavaConfig/build/
+/SpringEventHandlers/nbproject/private/
+/SpringEventHandlers/build/
